@@ -1,4 +1,4 @@
-# desafio do curso "Aprendendo a Sintaxe Java" da DIO. 
+# Desafio do curso "Aprendendo a Sintaxe Java" da DIO. 
 
 ## Sintaxe - Desafio
 
